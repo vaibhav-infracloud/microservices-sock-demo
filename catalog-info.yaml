@@ -10,3 +10,5 @@ spec:
   owner: user:guest
   dependsOn:
     - component:tutorial
+  providesApis:
+    - socks-api
