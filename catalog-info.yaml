@@ -8,3 +8,7 @@ spec:
   type: service
   lifecycle: production
   owner: user:guest
+  dependsOn:
+    - resource:default/socks-db
+  providesApis:
+    - socks-api
