@@ -8,4 +8,4 @@ spec:
   lifecycle: production
   owner: user:guest
   definition:
-    $text: https://github.com/amanjuneja5/carts/blob/develop/api-spec/carts-openapi.yaml
+    $text: https://github.com/vaibhav-infracloud/microservices-sock-demo/blob/master/openapi/open-api.yaml
