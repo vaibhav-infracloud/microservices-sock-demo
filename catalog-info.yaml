@@ -4,8 +4,7 @@ metadata:
   name: microservices-sock-demo
   annotations:
     github.com/project-slug: vaibhav-infracloud/microservices-sock-demo
-    backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
-  lifecycle: unknown
-  owner: user:vaibhav
+  type: service
+  lifecycle: production
+  owner: user:guest
