@@ -2,7 +2,7 @@
 
 # Sock Shop : A Microservice Demo Application
 
-The application is the user-facing part of an online shop that sells socks. It is intended to aid the demonstration and testing of microservice and cloud native technologies.
+The application is the user-facing part of an online shop which sells socks. It is intended to aid the demonstration and testing of microservice and cloud native technologies.
 
 It is built using [Spring Boot](http://projects.spring.io/spring-boot/), [Go kit](http://gokit.io) and [Node.js](https://nodejs.org/) and is packaged in Docker containers.
 
